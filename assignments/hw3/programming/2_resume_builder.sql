@@ -20,29 +20,28 @@ USE hw3_resume_builder;
 -- Task 2.2: Insert Data
 
 -- Display all tables after Task 2.2
-SELECT * FROM User;
-SELECT * FROM Resume;
-SELECT * FROM Education;
-SELECT * FROM Experience;
-SELECT * FROM Skill;
-SELECT * FROM Resume_Skill;
-
+SELECT * FROM User ORDER BY user_id;
+SELECT * FROM Resume ORDER BY resume_id;
+SELECT * FROM Education ORDER BY education_id;
+SELECT * FROM Experience ORDER BY experience_id;
+SELECT * FROM Skill ORDER BY skill_id;
+SELECT * FROM Resume_Skill ORDER BY resume_id;
 -- Task 2.3: Update tables
 
 -- Display all tables after Task 2.3
-SELECT * FROM User;
-SELECT * FROM Resume;
-SELECT * FROM Education;
-SELECT * FROM Experience;
-SELECT * FROM Skill;
-SELECT * FROM Resume_Skill;
+SELECT * FROM User ORDER BY user_id;
+SELECT * FROM Resume ORDER BY resume_id;
+SELECT * FROM Education ORDER BY education_id;
+SELECT * FROM Experience ORDER BY experience_id;
+SELECT * FROM Skill ORDER BY skill_id;
+SELECT * FROM Resume_Skill ORDER BY resume_id;
 
 -- Task 2.4: Delete operations
 
 -- Display all tables after Task 2.4
-SELECT * FROM User;
-SELECT * FROM Resume;
-SELECT * FROM Education;
-SELECT * FROM Experience;
-SELECT * FROM Skill;
-SELECT * FROM Resume_Skill;
+SELECT * FROM User ORDER BY user_id;
+SELECT * FROM Resume ORDER BY resume_id;
+SELECT * FROM Education ORDER BY education_id;
+SELECT * FROM Experience ORDER BY experience_id;
+SELECT * FROM Skill ORDER BY skill_id;
+SELECT * FROM Resume_Skill ORDER BY resume_id;
