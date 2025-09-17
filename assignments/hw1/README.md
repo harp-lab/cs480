@@ -3,11 +3,6 @@ This repository contains both the theory and programming components for the assi
 
 ## Deadline: 27th September, midnight (CST).
 
-### Theory Assigment
-- Write your name, UIC email in ID, and the answers in [theory/TheoryAssignment_1.docx](theory/TheoryAssignment_1.docx)
-- Create a PDF file from the completed theory assignment.
-- The theory component includes 7 bonus points (total: 107/100).
-
 ### Programming Assignment
 - [programming](programming) folder contains all the templates and data needed.
 - Complete the `TODO` tasks in [programming/relationalAlgebra.cpp](programming/relationalAlgebra.cpp), look for:
